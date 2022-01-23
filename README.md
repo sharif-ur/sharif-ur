@@ -1,16 +1,51 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Nadim</h1>
+<h3 align="center">A passionate Frontend Software Developer from Bangladesh</h3>
 
-<!--
-**sharif1811027m/sharif1811027m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All of my projects are available at -> [https://github.com/aa-nadim](https://github.com/aa-nadim)
 
-Here are some ideas to get you started:
+- 💬 Ask me about -> **JavaScript, ReactJS, NextJS, NodeJS, MongoDB, ExpressJS.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me -> **nadim.ice.nstu@gmal.com**
+
+- 📄 Know about my experiences -> [My LinkedIn Profile](https://www.linkedin.com/in/aa-nadim/)
+
+
+<br>
+
+
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/aa-nadim/" target="_blank"> <img src="https://localist-images.azureedge.net/photos/35414231625734/big_square/1d3bb99198fc5f10b55f666c09b24b0e1d016199.jpg" alt="LinkedIn" width="60" height="60"/> </a>
+<a href="https://www.stopstalk.com/user/profile/Garbage_Value" target="_blank"> <img src="https://avatars.githubusercontent.com/u/14951079?s=200&v=4" alt="stopstalk" width="60" height="60"/> </a>
+<a href="https://aa-nadim.web.app/" target="_blank"> <img src="https://i.ibb.co/9vPZb5P/nadim-aa.png" alt="protfolio" width="60" height="60"/> </a>
+<a href="https://codeforces.com/profile/GarbageValue" target="_blank"> <img src="https://4.bp.blogspot.com/-v-hzJIq0u7s/WtG1pXclDOI/AAAAAAAABwc/sSKMErfMuecOkdtentny-wBdNTtJi82oQCEwYBhgL/s1600/codeforce.png" alt="codeforces" width="60" height="60"/> </a>
+<a href="https://www.hackerrank.com/aa_nadim" target="_blank"> <img src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="hackerrank" width="60" height="60"/> </a>
+</p>
+<div style="width: 100%;" align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=aa-nadim" alt="aa-nadim" />
+</div>
+
+<table width="100%">
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=aa-nadim&show_icons=true&hide_border=true&count_private=true" /> 
+    </td>
+    <td> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-nadim&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+    </td>
+  </tr>
+</table>
+
+
+<div style="display: flex;">
+  <div style="width: 50%;" align="center" >
+    
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aa-nadim/)
+&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/aa-nadim)
+ 
+ <div >
+   <div style="width: 50%;" align="center" >
+   <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=aa-nadim"></a>
+  </div>
+  </div>
